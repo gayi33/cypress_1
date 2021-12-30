@@ -1,0 +1,73 @@
+[
+  {
+    "description": "    I want to Login demo.wpeverest.com Application",
+    "keyword": "Feature",
+    "name": "demo.wpeverest.com Login",
+    "line": 1,
+    "id": "demo.wpeverest.com-login",
+    "tags": [],
+    "uri": "Test1.feature",
+    "elements": [
+      {
+        "id": "demo.wpeverest.com-login;login-to-the-application",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Login to the application",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "open the Login page of Application",
+            "result": {
+              "status": "passed",
+              "duration": 5785000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Enter the Username",
+            "result": {
+              "status": "passed",
+              "duration": 3712000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Enter the Password",
+            "result": {
+              "status": "passed",
+              "duration": 1840000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "Click on Login",
+            "result": {
+              "status": "passed",
+              "duration": 6825000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "Dashboard board page is open",
+            "result": {
+              "status": "passed",
+              "duration": 52000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

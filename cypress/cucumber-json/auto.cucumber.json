@@ -1,0 +1,113 @@
+[
+  {
+    "description": "    I want to check demo.wpeverest.com Application Automation Practice Form",
+    "keyword": "Feature",
+    "name": "demo.wpeverest.com Automation Practice Form",
+    "line": 1,
+    "id": "demo.wpeverest.com-automation-practice-form",
+    "tags": [],
+    "uri": "auto.feature",
+    "elements": [
+      {
+        "id": "demo.wpeverest.com-automation-practice-form;automation-practice-form",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Automation Practice Form",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "open the Application and Login",
+            "result": {
+              "status": "passed",
+              "duration": 13872000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "Dashboard board page is open",
+            "result": {
+              "status": "passed",
+              "duration": 15000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Click on Automation Practice Form",
+            "result": {
+              "status": "passed",
+              "duration": 1161000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Enter the Name",
+            "result": {
+              "status": "passed",
+              "duration": 301000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Enter the Mobile Number",
+            "result": {
+              "status": "passed",
+              "duration": 300000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "Enter the Address",
+            "result": {
+              "status": "passed",
+              "duration": 261000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "Select Radio Button",
+            "result": {
+              "status": "passed",
+              "duration": 180000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Select CheckBox",
+            "result": {
+              "status": "passed",
+              "duration": 341000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Select dropdown value from the list",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

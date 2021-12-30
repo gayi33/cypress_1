@@ -1,0 +1,23 @@
+{
+    "formpage":{
+        "frstName":"#firstName",
+        "lastName":"#lastName",
+        "uemail":"#userEmail",
+        "eGender":"[type='radio']",
+        "eMobileNo":"#userNumber",
+        "eHoby":"[type = 'checkbox']",
+        "eSubmit":"#submit",
+        "eDOB":"#dateOfBirthInput",
+        "eMonth":".react-datepicker__month-select",
+        "eYear":".react-datepicker__year-select",
+        "eDate":".react-datepicker__day--023",
+        "eState":"#state",
+        "sState":"#react-select-3-option-1",
+        "eCity":"#city",
+        "sCity":"#react-select-4-option-1"
+    },
+
+    "reviewPage":{
+        "reviewPagevalid":"#example-modal-sizes-title-lg"
+    }
+}

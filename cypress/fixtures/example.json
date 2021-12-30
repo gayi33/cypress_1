@@ -1,0 +1,9 @@
+{
+  "fields" : {
+      "uname": "ABCDEFGHIJK",
+      "ulname":"UVWXYZ",
+      "uemail": "hello@gmail.com",
+      "umobile": "9876566660",
+      "body": "Fixtures are a great way to mock data for responses to routes"
+  }
+}

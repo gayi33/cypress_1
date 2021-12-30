@@ -1,0 +1,25 @@
+{
+"projectId": "vmwc9c",
+
+"testFiles": "**/*.{feature,features}",
+
+"ignoreTestFiles": ["**/stepDefinitions/*","*.js", "*.md"],
+
+"reporter": "cypress-multi-reporters",
+"reporterOptions": {
+    "reporterEnabled": "mochawesome",
+    "mochawesomeReporterOptions": {
+        "reportDir": "cypress/reports/mocha",
+        "quite": true,
+        "overwrite": false,
+        "html": false,
+        "json": true
+    }
+},
+
+"env":{
+    "frsturl":"https://itera-qa.azurewebsites.net/Login",
+    "secondurl":"https://demoqa.com/automation-practice-form",
+    "thirdurl":"https://itera-qa.azurewebsites.net/"
+}
+}
